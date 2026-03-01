@@ -3,7 +3,7 @@ img {
 }
 body {
   text-align: center;
-  font-family: 'Arial';
-  background: azure;
-  color: purple;
+  font-family: "Georgia", serif;
+  background: rgb(75, 104, 218);
+  color: rgb(6, 0, 128);
 }
